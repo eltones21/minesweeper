@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Knowledge-based AI with Python
 
 There are two main files in this project: runner.py and minesweeper.py. 
